@@ -1,0 +1,27 @@
+body {
+  background-color: #282c34;
+  color: white;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+}
+
+.main-screen-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.spotify-playlist-form {
+  width: 75%;
+}
+
+.youtube-playlist-output {
+  margin-top: 5em;
+  width: 75%;
+}
+
+.youtube-login-playlist-output {
+  margin-top: 5em;
+  width: 75%;
+}
